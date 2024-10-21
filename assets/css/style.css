@@ -1,0 +1,22 @@
+.hero img{
+    height: 40rem;
+    object-fit: cover;
+    object-position: center;
+    filter: brightness(50%) contrast(90%);
+}
+
+.hero li{
+    list-style: none;
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+}
+
+.hero .carousel-caption{
+    top: 70%;
+    text-align: right;
+}
+
+.hero h3{
+    font-size: 70px;
+}
